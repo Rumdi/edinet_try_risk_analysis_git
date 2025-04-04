@@ -1,7 +1,0 @@
-streamlit
-plotly
-pandas
-numpy
-fastapi
-uvicorn
-pydantic
